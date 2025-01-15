@@ -1,0 +1,2 @@
+# AI4CBT_Cogito_Study
+仅用于大模型冬令营Cogito小组的文件交流以及项目管理。
